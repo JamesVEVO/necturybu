@@ -1,0 +1,45 @@
+  {
+  "prefix" : "n!",
+  "sahip" : "sahibid",
+  "sunucu" : "809122616426233897",
+
+  "tag" : "⺓",
+  "vip": "825472513701969971",
+  "yetkilirol" : "825836900820189214",
+
+  "erkekrol" : "825472510102863922",
+  "erkekrol2" : "825837153539719238",
+  
+
+  "kadınrol2" : "825472508723331083",
+  "kadın" : "825837154113683456",
+ 
+
+  "kayıtsızrol" : "825472511050907658",
+
+  "botrol" : "825839550818549822",
+
+  "sunucuID": "801405449558687745",
+  
+  "silYetkiliRolID": "826171975545389056",
+  "muteYetkiliRolID": "826172274016387132",
+  "vmuteYetkilisiRolID": "826172274016387132",
+  "banYetkiliRolID": "825472496891461712",
+  "jailYetkiliRolID": "825472497611964426",
+  "sesKesYetkiliRolID": "826171975545389056",
+  "nukeYetkiliRolID": "826171975545389056",
+  
+  "mutedRolID": "825472514666528798",
+  "mutedRolİsim": "MUTED",
+  "jailedRolID": "825472511922798662",
+  "jailedRolİsim": "' ⚠️ Cezalı",
+  
+  "muteLogKanalID": "825472635646378046",
+  "unmuteLogKanalID": "825472640655163404",
+  "banLogKanalID": "825472639093964840",
+  "unbanLogKanalID": "826171554450767912",
+  "vmuteLogKanalID": "826171631516909607",
+  "unvmuteLogKanalID": "826171650168324148",
+  "jailLogID": "826171737380749342",
+  "unjailLogID": "826171773958881341"
+}
